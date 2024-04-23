@@ -4,11 +4,6 @@
 @import "./base/reset";
 
 
-//components
-@import "./components/breadcrumb";
-@import "./components/cards";
-
-
 //layout
 @import "./layout/header";
 @import "./layout/footer";
@@ -16,6 +11,11 @@
 @import "./layout/contacto";
 @import "./layout/tips-siembra";
 @import "./layout/tienda";
+
+
+//components
+@import "./components/breadcrumb";
+@import "./components/cards";
 
 
 
